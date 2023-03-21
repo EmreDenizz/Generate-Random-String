@@ -3,6 +3,7 @@
 // Length of the random string
 $length = 10;
 
+// Characters: Numbers, Lower-Case Letters and Upper-Case Letters
 $chars = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
 
 // Generate random string
