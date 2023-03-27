@@ -1,4 +1,7 @@
 <?php
+/**
+ * @author Emre Deniz <https://github.com/EmreDenizz>
+*/
 
 // Length of the random string
 $length = 10;
